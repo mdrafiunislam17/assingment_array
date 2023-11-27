@@ -8,7 +8,7 @@ http://localhost/exm/array.php/
   <p>
     <h1>
       <a href="http://localhost/exm/array.php/question1.php">
-        <img src="(b.PNG)" alt="question1" />
+        <img src="(img/b.PNG)" alt="question1" />
       </a>
       <br />
     </h1>
@@ -18,7 +18,7 @@ http://localhost/exm/array.php/
   <p>
     <h1>
       <a href="http://localhost/exm/array.php/question2.php">
-        <img src="(c.PNG)" alt="question2" />
+        <img src="(img/c.PNG)" alt="question2" />
       </a>
       <br />
     </h1>
@@ -28,7 +28,7 @@ http://localhost/exm/array.php/
   <p>
     <h1>
       <a href="http://localhost/exm/array.php/question3.php">
-        <img src="(d.PNG)" alt="question3" />
+        <img src="(img/d.PNG)" alt="question3" />
       </a>
       <br />
     </h1>
