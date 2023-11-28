@@ -12,7 +12,7 @@ http://localhost/exm/array.php/
 
 ![b](https://github.com/mdrafiunislam17/assingment_array/assets/95011589/b9a7ca16-c82a-4e13-a486-723b517f2f91)
 
-view code:http://localhost/exm/array.php/question1.php
+view code:exm/array.php/question1.php
 
 ![c](https://github.com/mdrafiunislam17/assingment_array/assets/95011589/ddf5dbf5-62e5-4e87-b511-b452a8ff1580)
 
