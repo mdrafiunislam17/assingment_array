@@ -6,7 +6,7 @@
 
 
 
-view Code:http://localhost/exm/array.php/
+view Side:http://localhost/exm/array.php/
 
 ## Screenshots
 
